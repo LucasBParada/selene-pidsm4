@@ -111,15 +111,6 @@ project-root/
 - **🌱 Sustentabilidade** na fungicultura
 - **🎯 Alinhamento com ODS 2** (Fome Zero)
 
-## 👥 Equipe
-
-| Integrante | Função | Contato |
-|------------|--------|---------|
-| **Bruno de Lucca Soares Miranda** | Backend & Documentação | [![GitHub](https://img.shields.io/badge/GitHub-BDlucca-black)](https://github.com/BDlucca) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://linkedin.com/in/seu-linkedin) |
-| **Filipe de Oliveira Lima** | Frontend & Mobile | [![GitHub](https://img.shields.io/badge/GitHub-1filipeolv-black)](https://github.com/1filipeolv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/filipeolv/) |
-| **Lucas de Barros Parada** | Banco de dados & Documentação | [![GitHub](https://img.shields.io/badge/GitHub-LucasBParada-black)](https://github.com/LucasBParada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)]([https://linkedin.com/in/seu-linkedin](https://www.linkedin.com/in/lucas-parada-943467321/)) |
-| **Paulo Seiji Yamamoto Junior** | Full-stack | [![GitHub](https://img.shields.io/badge/GitHub-Psyj1-black)](https://github.com/Psyj1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](www.linkedin.com/in/paulo-junior-921676321) |
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
